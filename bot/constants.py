@@ -1,12 +1,12 @@
 # Admnistradores
 # Para añadir más separalos por comas
 administradores = [
-    5070319912, 1618347551
+    1618347551, 1023174629
     ]
 
 # Canal a donde se envia la plantilla
 # Se debe incluir el ' - '
-CHANNEL = -1001709666769
+CHANNEL = -1001707355137
 
 # Estados ConversationHandler
 PHOTO = 0
